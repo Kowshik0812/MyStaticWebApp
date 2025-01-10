@@ -1,6 +1,6 @@
 alert('Hi, I am loaded!')
 
-function clickme() {
+function clickMe() {
     alert('You Clicked Me')
 }
 
